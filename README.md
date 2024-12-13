@@ -48,7 +48,7 @@
   <a href="https://www.instagram.com/Iliya rezaii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/arash_aio" target="_blank">
+  <a href="https://t.me/Iliyarezaii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"  />
   </a>
 </div>
