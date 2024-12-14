@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi 
   <img height="32" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/wave.gif"><br>
-  <a href="https://iliyarezaii.ir/resume"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20DA3D&center=true&vCenter=true&width=250&height=35&lines=i'm+Iliya Rezaii;Backend+Developer+%F0%9F%92%8E" alt="Typing SVG" /></a>
+  <a href="https://iliyarezaii.ir/resume.html"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20DA3D&center=true&vCenter=true&width=250&height=35&lines=i'm+Iliya Rezaii;Backend+Developer+%F0%9F%92%8E" alt="Typing SVG" /></a>
   <img height="35" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/guy-with-laptop-1.gif">
 </h1>
 
@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://iliyarezaii.ir/resume/assets/images/my-avatar.png"  />
+<img align="right" height="150" src="https://iliyarezaii.ir/resume.html.html/assets/images/my-avatar.png"  />
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h4 align="left"><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/birthday-candles.gif" height="20"> I'm 13 years old<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="20" height="20" /> I've been learning programming for about 6 month<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /> 4th Place Of Bright Expo2024<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="20" height="20" />Member of the Elite Team of Aiolearn Academy<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="20" height="20" /><br>MY WEBSITE : <a href="https://iliyarezaii.ir/resume">iliyarezaii.ir</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="20" height="20" /></h4>
+<h4 align="left"><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/birthday-candles.gif" height="20"> I'm 13 years old<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="20" height="20" /> I've been learning programming for about 6 month<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /> 4th Place Of Bright Expo2024<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="20" height="20" /><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="20" height="20" />Member of the Elite Team of Aiolearn Academy<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="20" height="20" /><br>MY WEBSITE : <a href="https://iliyarezaii.ir/resume.html">iliyarezaii.ir</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="20" height="20" /></h4>
 
 ###
 ---
